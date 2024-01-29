@@ -1,5 +1,5 @@
 # Microsoft_Reactor_Session
-Revolutionizing Conversational AI: Build a NextJS ChatGPT Clone using OpenAI API
+Build a NextJS ChatGPT Clone leveraging the `OpenAI API`, `NextJS`, `Tailwind CSS`, and `MongoDB`.
 
 Branches in this repository:
 1. `main branch` - Contains the files of an initial commit (NextJS initial template) with no editted file.
